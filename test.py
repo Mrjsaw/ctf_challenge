@@ -1,1 +1,1 @@
-print('Hello')
+<script>alert(1)</script>
