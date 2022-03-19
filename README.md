@@ -1,1 +1,1 @@
-# ctf_challenge
+../../../../../../../../flag.txt
